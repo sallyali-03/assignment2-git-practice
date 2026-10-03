@@ -1,0 +1,2 @@
+Hello from my Git practice repository.
+I am learning configuration management and Git.
